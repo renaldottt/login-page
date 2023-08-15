@@ -1,0 +1,3 @@
+function gotoLogin() {
+alert("Oke")
+}
